@@ -6,7 +6,7 @@
 
 ![Cecylia GitHub stats](https://github-readme-stats.vercel.app/api?username=cecyliaf&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecyliaf)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecyliaf)](https://github.com/cecyliaf/github-readme-stats)
 
 
 ## Tecnologias que eu uso
