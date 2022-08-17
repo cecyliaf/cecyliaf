@@ -1,4 +1,4 @@
-### Olá! Eu sou a Cecylia 👋
+### Olá! Eu sou a Cecylia 🙋‍♀️
 
 
 
